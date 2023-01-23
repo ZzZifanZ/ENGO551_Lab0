@@ -179,3 +179,16 @@ h2  {
     margin-right:25%;
     
 }
+
+.Projects, th, td{
+    border:1px solid white;
+    
+}
+.Projects{
+    padding-top: 20vh;
+    text-align: center;
+    
+}
+table{
+    width:100%;
+}
