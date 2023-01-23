@@ -1,0 +1,21 @@
+/*Nesting Example*/
+div ul {
+  color: white;
+}
+div ol {
+  color: white;
+}
+/*Inheritance Example*/
+.text, .right {
+  text-align: center;
+  font: bold;
+}
+
+.text {
+  margin-top: vh;
+  font-family: "Cardo";
+  color: white;
+  font-size: 15px;
+}
+
+/*# sourceMappingURL=style_02.css.map */

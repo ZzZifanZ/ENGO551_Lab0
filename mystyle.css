@@ -6,10 +6,9 @@
         width:55vw;
         height:140vh;
         min-width: 300px;  
-        font-family: 'Oswald';
-        font: bold;
+        
        
-        text-align: center;
+       
         background-color: rgb(110, 112, 112);
        
     }  
@@ -29,10 +28,8 @@
     
     .right{
         width:100vw;
-        font-family: 'Oswald';
-        font: bold;
         margin-top:10;
-        text-align: center;
+        
         background-color: rgb(110, 112, 112);
         margin-left:-5vw;
         
@@ -172,13 +169,7 @@ h2  {
 }
 
 
-.text{
-    margin-top: vh;
-    font-family: 'Cardo';
-    text-align: center;
-    color:white;
-    font-size: 15px;
-}
+
 #P{
    
     position:relative;
