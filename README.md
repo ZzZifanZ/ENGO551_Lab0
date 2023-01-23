@@ -10,9 +10,9 @@ There are 5 main .html pages
     - Personal Interest Page (interests.html)
 
 There are 2 .css file:
-    - mystyle.css 
+    -mystyle.css 
     This .css stylesheet contained most of the required criteria for this lan such as, @Media responsive query, different
-    CSS properties and selectors, Bootstrap 4 grids
+    CSS properties and selectors and Bootstrap 4 grid system
 
     -style_02.css
     Generated using sass from style_02.sass file. Includes nesting and inheritance properties
